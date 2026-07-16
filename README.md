@@ -1,7 +1,6 @@
 # API de Pagamentos via PIX
 
 <div align="center">
-  <img src="public/logo.png" alt="Logo PIX API" width="150" />
   <p><strong>Uma solução simples para integração de pagamentos PIX sem necessidade de conta PJ</strong></p>
   <p>
     <img src="https://img.shields.io/badge/status-beta-orange" alt="Status do Projeto" />
@@ -10,6 +9,9 @@
     <img src="https://wakatime.com/badge/user/f7fc301e-e4ee-4d46-b45f-5ff61c255b35/project/20d09027-f014-4ba2-a246-40c94dcf02f9.svg" alt="Wakatime Time About Project" />
   </p>
 </div>
+
+> [!WARNING]  
+> Esse código está bem desatualizado, não pretendo fazer um update tão cedo nele, e para ser sincero não sei se ainda funciona
 
 ## 💡 Sobre o Projeto
 
